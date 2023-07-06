@@ -1,0 +1,17 @@
+.head{
+    text-align: center;
+    /* background-image: url(https://res.cloudinary.com/dcy0x4qbp/image/upload/v1688058082/cld-sample.jpg);
+    background-size: cover;
+    background-repeat: no-repeat; */
+    background-color: brown;
+
+}
+.head h1{
+    font-weight: 800;
+    color: white;
+}
+.image{
+    width: 50%;
+    height: 50%;
+    border-radius: 50%;
+}
